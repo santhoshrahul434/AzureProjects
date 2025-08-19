@@ -1,0 +1,3 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+ABC9726,ADLR0063,Hii-M13,22372413,3,DT01247,31,5,2020,Power R Motors,Ford do  Motors,Jeep
+AYZ9726,AYZ0063,AYXM13,22372413,3,DT01248,31,5,2020,Azure Motors,Azure Dealers,Surprise Entry
